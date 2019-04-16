@@ -1,0 +1,7 @@
+# Valid
+/root/src/*.js
+
+# Ignore built files except build/index.js
+build/*
+
+webpack.config.js
